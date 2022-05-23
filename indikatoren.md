@@ -1,47 +1,79 @@
 # Wirtschaftliche Indikatoren
-## Gemäss Donut-Ökonomie
-Quelle: Die Donut-Ökonomie, Kate Ramworth, Hanser 2018
+(Donut) = Quelle: Die Donut-Ökonomie, Kate Ramworth, Hanser 2018 (Donut) 
 
-Ernährungssicherheit
-Bevölkerung leidet an Unterernährung
+## Soziales Fundament
 
-Gesundheit
-Sterblichkeitsrate
-Lebenserwartung
+### Ernährungssicherheit (Donut)
+- (Donut) Bevölkerung leidet an Unterernährung
 
-Bildung
-Analphabeten
-Kinder ohne Schulbildung
+### Gesundheit (Donut)
+- (Donut) Sterblichkeitsrate
+- (Donut) Lebenserwartung
 
-Einkommen und Beschäftigung
-Armutsgrenze
-Junge Menschen ohne Arbeit
+### Bildung (Donut)
+- (Donut) Analphabeten
+- (Donut) Kinder ohne Schulbildung
 
-Wasser und Hygiene
-Zugang zu sauberem Wasser
-Zugang zu verbesserter Hygiene
+### Einkommen und Beschäftigung (Donut)
+- (Donut) Armutsgrenze
+- (Donut) Junge Menschen ohne Arbeit
 
-Energie
-Menschen ohne Zugang zu Strom
-Menschen ohne Zugang zu sauberen Kocheinrichtungen
+### Wasser und Hygiene (Donut)
+- (Donut) Zugang zu sauberem Wasser
+- (Donut) Zugang zu verbesserter Hygiene
 
-Netzwerke
-Einsamkeit
-Kein Zugang zum Internet
+### Energie (Donut)
+- (Donut) Menschen ohne Zugang zu Strom
+- (Donut) Menschen ohne Zugang zu sauberen Kocheinrichtungen
 
-Wohnen
-Anteil in Slum-Siedlungen
+### Netzwerke (Donut)
+- (Donut) Einsamkeit
+- (Donut) Kein Zugang zum Internet
 
-Gleichstellung
-Repräsentationslücke zwischen Männern und Frauen in den Parlamenten
-Einkommensunterschiede zwischen Frauen und Männern
+### Wohnen (Donut)
+- (Donut) Anteil in Slum-Siedlungen
 
-Soziale Gerechtigkeit
-Palma-Verhältnis (Einkommen Reicher vs. Armer)
+### Gleichstellung (Donut)
+- (Donut) Repräsentationslücke zwischen Männern und Frauen in den Parlamenten
+- (Donut) Einkommensunterschiede zwischen Frauen und Männern
 
-Politische Mitsprache
-Menschen mit Voice and Accountability Index
+### Soziale Gerechtigkeit (Donut)
+- (Donut) Palma-Verhältnis (Einkommen Reicher vs. Armer)
 
-Frieden und Gerechtigkeit
-Corruption Perception Index
-Mordrate
+### Politische Mitsprache (Donut)
+- (Donut) Menschen mit Voice and Accountability Index
+
+### Frieden und Gerechtigkeit (Donut)
+- (Donut) Corruption Perception Index
+- (Donut) Mordrate
+
+
+## Ökologische Decke 
+
+### Klimawandel (Donut)
+- (Donut) CO2 in der Atmospähre
+
+### Versauerung der Meere (Donut)
+- (Donut) Sättigung mit Aragonit
+
+### Chemische Umweltverschmutzung (Donut)
+- (Donut) Keine Kontrollvariable
+
+### Stickstoff- und Phosphorbelastung (Donut)
+- (Donut) Düngemittel auf Agrarflächen
+- (Donut) Reaktiver Stickstoff auf Agrarflächen
+
+### Süsswasserverknappung (Donut)
+- (Donut) Frischwasserverbrauch
+
+### Flächenumwandlung (Donut)
+- (Donut) Bewaldete Flächen im Verhältnis zu früher
+
+### Verlust der Artenvielfalt (Donut)
+- (Donut) Anteil der aussterbenden Arten
+
+### Luftverschmutzung (Donut)
+- (Donut) Keine Kontrollvariable
+
+### Rückgang der Ozonschicht (Donut)
+- (Donut) Konzentration von Ozon
