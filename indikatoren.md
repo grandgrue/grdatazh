@@ -77,3 +77,26 @@
 
 ### Rückgang der Ozonschicht (Donut)
 - (Donut) Konzentration von Ozon
+
+
+## Notizen aus Obsidian
+- Abfall der Menschen und Industrie
+- Verteilung der Pareilandschaft
+- Besitz: Privat vs. Gemeinschaft
+- Vereine: Menschen die sich vernetzen
+- Care Arbeit & Fürsorge
+- Konsum
+- Angebote für Kinder
+- Biologische Produkte
+- Anteil öV
+- Diversität
+- Wenig Dualismus
+- Reparieren 
+- Food Waste
+- Vegetarier 
+
+Vergleich mit Skandinavischen Dörfern?
+
+## Gemeindeporträt KT ZH
+Ausgewählte Indikatoren 
+https://www.web.statistik.zh.ch/gpv2/?tab=indikatoren&jahr=0&indikatoren=205,206,460,809,405,406,408,449,97,102,541,316,320,380,595,588,589,590,264,300,167,157,161,159,163,165,183,184,187,186,185,459,135,134,138,469,399,396,604,605,606,607,608,400,480,481,425,421,424,423,426,428,427,119,118,116,438,117,114,115,444,437,436,439&bfs=199
