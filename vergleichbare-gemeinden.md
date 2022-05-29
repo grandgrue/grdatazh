@@ -2,11 +2,9 @@
 
 ## Soziodemografisch ähnliche Gemeinden
 https://www.peter-moser.ch/publikationen/si_2016_04_abstimmungen_uebersicht_2010_2016.pdf 
-Seite 4 Erläuterung
-Seite 5 Grafik
+Erklärung zur Soziodemografie auf Seite 4 und verwendete Grafik auf Seite 5
 
-Soziodemografisch: Wenn eine Gemeinde im einem der vier Quadranten ist, in welchem Volketswil und Schwerzenbach angrenzen, werden sie als ähnlich angeschaut.
-
+Wenn eine Gemeinde im einem der vier Quadranten ist, in welchen Volketswil oder Schwerzenbach angrenzen, werden sie als ähnlich angeschaut. Folgende Gemeinden wurden gefunden:
 - Dürnten
 - Fehraltdorf
 - Embrach
@@ -37,9 +35,10 @@ Soziodemografisch: Wenn eine Gemeinde im einem der vier Quadranten ist, in welch
 - Adliswil
 
 ## Politisch interessante Gemeinden
-Seite 4 Erläuterung
-Seite 5 Grafik
-Politisch: Wenn die Gemeinde weiter links unten als Volketswil ist, erhält sie ein Plus. Wenn sie sogar weiter links unten als Schwerzebach ist, gibts zwei Plus. Solche die nicht gefunden wurden haben ein Fragezeichen.
+https://www.peter-moser.ch/publikationen/si_2016_04_abstimmungen_uebersicht_2010_2016.pdf 
+Erklärung zur ideologischen (politischen) Landkarte auf Seite 2 und verwendete Grafik auf Seite 3
+
+Wenn die Gemeinde weiter links unten als Volketswil ist, erhält sie ein Plus. Wenn sie sogar weiter links unten als Schwerzebach ist, gibts ein zweies Plus. Solche die nicht gefunden wurden (weil nicht angeschrieben) haben ein Fragezeichen. Weiter links bedeutet "mehr Staat", weiter unten bedeutet "progresiver".
 
 - Dürnten (-)
 - Fehraltdorf (+)
@@ -70,7 +69,7 @@ Politisch: Wenn die Gemeinde weiter links unten als Volketswil ist, erhält sie 
 - Oberengstringen (?)
 - Adliswil (++)
 
-## Verbleibende: Grösse der Gemeinde
+## Verbleibende Gemeinden mit Plus
 - Adliswil (++)
 - Stäfa (++)
 - Uster (++)
@@ -88,30 +87,32 @@ Politisch: Wenn die Gemeinde weiter links unten als Volketswil ist, erhält sie 
 - Wetzikon (+)
 - Dübendorf (+)
 
+## Bevölkerungsgrösse der verbleibenden Gemeinden
 Export aus dem Gemeindeportrait https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html
+
 Bevölkerungsbestand in Personen, 2021 
 
-- Schwerzenbach	5’125
-- Greifensee (++)	5’346
-- Fehraltorf	6’667
-- Birmensdorf	6’934
-- Wangen-Brüttisellen	7’955
+- **Schwerzenbach	5’125**
+- __Greifensee (++)	5’346__
+- __Fehraltorf	6’667__
+- __Birmensdorf	6’934__
+- __Wangen-Brüttisellen	7’955__
 - Embrach	9’860
 - Urdorf	10’211
 - Rüti	12’631
 - Richterswil	13’800
-- Stäfa (++)	14’793
-- Illnau-Effretikon	17’395
-- Adliswil (++)	18’998
-- Volketswil	19’107
-- Bülach	22’190
-- Horgen	23’288
+- __Stäfa (++)	14’793__
+- __Illnau-Effretikon	17’395__
+- __Adliswil (++)	18’998__
+- **Volketswil	19’107**
+- __Bülach	22’190__
+- __Horgen	23’288__
 - Wetzikon	25’451
 - Dübendorf	30’492
 - Uster (++)	35’508
 
-## Fazit
-Die Gemeinden mit einer Bevölkerung +/- 5000 Personen
+## Minimale Web-Recherche für die 10 gefundenen Gemeinden
+Die Gemeinden mit einer Bevölkerung +/- 5000 Personen in der soziodemografischen Nähe von Volketswil oder Schwerzenbach:
 
 Für Schwerzenbach sind interessant:
 - Greifensee (++)	
@@ -136,8 +137,3 @@ Für Volketswil sind interessant:
   -  Veranstalung: Pop Up Kino, Velobörse, Musik/Klimawandel, Podium Energiegesetz, Grillabend. Aktive Partei: https://gruene-zh.ch/gr%C3%BCne-b%C3%BClach
 - Horgen
   - Einzige gefundene Veranstaltung: Podium Frauenkompetenz. Sonst Aktiv: https://gruene-zh.ch/gr%C3%BCne-horgen   
-
-
-
-
-
