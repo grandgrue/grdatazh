@@ -115,10 +115,15 @@ Die Gemeinden mit einer Bevölkerung +/- 5000 Personen
 
 Für Schwerzenbach sind interessant:
 - Greifensee (++)	
+  -  Veranstaltungen: Repair Café, Informationsveranstaltung Altersstrategie, Wahlapéro, Riedpflege. https://gruene-usterland.ch/index.php/tag/greifensee/
 - Fehraltorf	
+  - Scheint keine Grüne Ortspartei zu haben 
 - Birmensdorf	
+  - Neue Ortspartei seit März 2021. Noch keine Webpräsenz https://gruene-zh.ch/gruene-birmensdorf ausser Gemeinderatkandidatin
 - Wangen-Brüttisellen	
+  -  Scheint keine Grüne Ortspartei zu haben
 - Embrach	
+  -  Grüne Embrachertal ohne grosse Webpräsenz: https://gruene-zh.ch/gr%C3%BCne-embrachertal Einsätze des Verschönerungsvereins: https://www.nvv-embri.ch/
 
 Für Volketswil sind interessant:
 - Stäfa (++)	
