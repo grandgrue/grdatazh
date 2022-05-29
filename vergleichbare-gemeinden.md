@@ -34,7 +34,7 @@ Soziodemografisch: Wenn eine Gemeinde im einem der vier Quadranten ist, in welch
 - Geroldswil
 - Dübendorf
 - Oberengstringen
-- Adliswil$
+- Adliswil
 
 ## Politisch interessante Gemeinden
 Seite 4 Erläuterung
