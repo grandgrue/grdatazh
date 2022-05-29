@@ -114,18 +114,25 @@ Bevölkerungsbestand in Personen, 2021
 Die Gemeinden mit einer Bevölkerung +/- 5000 Personen
 
 Für Schwerzenbach sind interessant:
-- Greifensee (++)	5’346
-- Fehraltorf	6’667
-- Birmensdorf	6’934
-- Wangen-Brüttisellen	7’955
-- Embrach	9’860
+- Greifensee (++)	
+- Fehraltorf	
+- Birmensdorf	
+- Wangen-Brüttisellen	
+- Embrach	
 
 Für Volketswil sind interessant:
-- Stäfa (++)	14’793
-- Illnau-Effretikon	17’395
-- Adliswil (++)	18’998
-- Bülach	22’190
-- Horgen	23’288
+- Stäfa (++)	
+  - Nur Kontakt, keine wirkliche Webseite, keine Veranstaltungen: https://gruene-zh.ch/gr%C3%BCne-st%C3%A4fa
+- Illnau-Effretikon	
+  - Gemäss der Webseite sind sie recht aktiv. Veranstaltungen sind aber Minigolf, Grillplausch und Bowling: https://gruene-zh.ch/gruene-illnau-effretikon 
+- Adliswil (++)	
+  -  Sind im Gemeinderat vertreten. Vorstand trifft sich monatlich: https://gruene-zh.ch/gruene-adliswil
+- Bülach
+  -  Veranstalung: Pop Up Kino, Velobörse, Musik/Klimawandel, Podium Energiegesetz, Grillabend. Aktive Partei: https://gruene-zh.ch/gr%C3%BCne-b%C3%BClach
+- Horgen
+  - Einzige gefundene Veranstaltung: Podium Frauenkompetenz. Sonst Aktiv: https://gruene-zh.ch/gr%C3%BCne-horgen   
+
+
 
 
 
