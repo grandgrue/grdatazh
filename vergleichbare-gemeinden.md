@@ -93,20 +93,20 @@ Export aus dem Gemeindeportrait https://www.zh.ch/de/politik-staat/gemeinden/gem
 Bevölkerungsbestand in Personen, 2021 
 
 - **Schwerzenbach	5’125**
-- __Greifensee (++)	5’346__
-- __Fehraltorf	6’667__
-- __Birmensdorf	6’934__
-- __Wangen-Brüttisellen	7’955__
+- _Greifensee (++)	5’346_
+- _Fehraltorf	6’667_
+- _Birmensdorf	6’934_
+- _Wangen-Brüttisellen	7’955_
 - Embrach	9’860
 - Urdorf	10’211
 - Rüti	12’631
 - Richterswil	13’800
-- __Stäfa (++)	14’793__
-- __Illnau-Effretikon	17’395__
-- __Adliswil (++)	18’998__
+- _Stäfa (++)	14’793_
+- _Illnau-Effretikon	17’395_
+- _Adliswil (++)	18’998_
 - **Volketswil	19’107**
-- __Bülach	22’190__
-- __Horgen	23’288__
+- _Bülach	22’190_
+- _Horgen	23’288_
 - Wetzikon	25’451
 - Dübendorf	30’492
 - Uster (++)	35’508
