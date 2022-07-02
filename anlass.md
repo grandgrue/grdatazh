@@ -36,6 +36,7 @@ Wir haben relativ wenig Ressourcen. Was kann man dagegen tun?
 ### Wer engagiert sich für Ähnliches?
 - Verschönerungsverein
 - Waste Walker
+- Interessen-Gemeinschaft für Lebensraum und Umwelt, kurz IGLU Volketswil https://igluvolketswil.ch/
 - Weitere Vereine von Volketswil (siehe Crossiety)
 
 # Mögliche Themen
@@ -70,10 +71,35 @@ Weitere Vorgehensmöglichkeiten
 
 ## Konkrete Ideen
 
-Stand
+### Standaktion 
 - Ziel: Bewerben der Grünen Ortspartei, neue Mitglieder gewinnen, Grüne Anliegen bekannt machen, aktuelle Abstimmung z.B. Massentierhaltung beeinflussen
 - Ort: Frequentierter Ort; Z.B. bei der Entsorgungsstelle, beim Einkaufszentrum, beim Bahnhof 
 
+### Podium
+- Beispiel Podium Energiegesetz, Podium Frauenkompetenz
+- Ev. Kombiniert mit Musik/Konzert 
+
+### Informationsveranstaltung 
+- Beispiel Altersstrategie
+- Ev. zu einer Abstimmung 
+
+### Repair Café
+- Uster hat eines: https://repair-cafe.ch/de/cafes/repair-cafe-uster am 29. Oktober 2022 10:00 - 15:00
+
+### Mini-Markt
+- Mit lokalen Spezialitäten
+
+### Riedpflege
+- Clean-Up Day Volketswil: https://gruene-usterland.ch/index.php/veranstaltung/clean-up-day-in-volketswil/ 
+- Oder Neophytenwanderung
+- Hat Volketswil einen Naturschutzbeauftragten? Wohl nicht, aber einen Förster: Fabio Gass und einen Ackerbaustellenleiter: Jürg Kägi
+
+### Pop Up Kino
+War am 20. Mai schon in Volketswil: https://pop-up.filmefuerdieerde.org/wp-content/uploads/2022/04/PopFlyer_2022_Los_Veganos.pdf  
+
+### Velobörse
+Velobörse Volkiland war am 30. April: provelozuerich.ch/event/veloborse-volketswil/
+Nächste in Dübendorf am 3.9.2022: https://gruene-usterland.ch/index.php/veranstaltung/velo-d/
 
 
 
