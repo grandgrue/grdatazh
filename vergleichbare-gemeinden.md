@@ -4,7 +4,7 @@
 https://www.peter-moser.ch/publikationen/si_2016_04_abstimmungen_uebersicht_2010_2016.pdf 
 Erklärung zur Soziodemografie auf Seite 4 und verwendete Grafik auf Seite 5
 
-Wenn eine Gemeinde im einem der vier Quadranten ist, in welchen Volketswil oder Schwerzenbach angrenzen, werden sie als ähnlich angeschaut. Folgende Gemeinden wurden gefunden:
+Wenn eine Gemeinde in einem der vier Quadranten ist, in welchen Volketswil oder Schwerzenbach angrenzen, werden sie als ähnlich angeschaut. Folgende Gemeinden wurden gefunden:
 - Dürnten
 - Fehraltdorf
 - Embrach
@@ -38,7 +38,7 @@ Wenn eine Gemeinde im einem der vier Quadranten ist, in welchen Volketswil oder 
 https://www.peter-moser.ch/publikationen/si_2016_04_abstimmungen_uebersicht_2010_2016.pdf 
 Erklärung zur ideologischen (politischen) Landkarte auf Seite 2 und verwendete Grafik auf Seite 3
 
-Wenn die Gemeinde weiter links unten als Volketswil ist, erhält sie ein Plus. Wenn sie sogar weiter links unten als Schwerzebach ist, gibts ein zweies Plus. Solche die nicht gefunden wurden (weil nicht angeschrieben) haben ein Fragezeichen. Weiter links bedeutet "mehr Staat", weiter unten bedeutet "progresiver".
+Wenn die Gemeinde weiter links unten als Volketswil ist, erhält sie ein Plus. Wenn sie sogar weiter links unten als Schwerzebach ist, gibts ein zweites Plus. Solche die nicht gefunden wurden (weil nicht beschriftet), haben ein Fragezeichen. Weiter links bedeutet "mehr Staat", weiter unten bedeutet "progressiver".
 
 - Dürnten (-)
 - Fehraltdorf (+)
@@ -97,7 +97,7 @@ Bevölkerungsbestand in Personen, 2021
 - _Fehraltorf	6’667_
 - _Birmensdorf	6’934_
 - _Wangen-Brüttisellen	7’955_
-- Embrach	9’860
+- _Embrach	9’860_
 - Urdorf	10’211
 - Rüti	12’631
 - Richterswil	13’800
@@ -110,6 +110,8 @@ Bevölkerungsbestand in Personen, 2021
 - Wetzikon	25’451
 - Dübendorf	30’492
 - Uster (++)	35’508
+
+Selektiert werden jeweils die fünf Gemeinden, welche bezüglich der Grösse nah an Schwerzenbach oder Volketswil sind (+/- 5000 Personen). Das ergibt eine Liste mit 10 Gemeinden (hervorgehoben)
 
 ## Minimale Web-Recherche für die 10 gefundenen Gemeinden
 Die Gemeinden mit einer Bevölkerung +/- 5000 Personen in der soziodemografischen Nähe von Volketswil oder Schwerzenbach:
