@@ -101,6 +101,8 @@ War am 20. Mai schon in Volketswil: https://pop-up.filmefuerdieerde.org/wp-conte
 Velobörse Volkiland war am 30. April: provelozuerich.ch/event/veloborse-volketswil/
 Nächste in Dübendorf am 3.9.2022: https://gruene-usterland.ch/index.php/veranstaltung/velo-d/
 
+### Erntedankfest
+Ist üblicherweise am ersten Sonntag im Oktober. Eigentlich ein bürgerliches Fest, könnte es als grünes Thema umgedeutet werden. 
 
 
 
